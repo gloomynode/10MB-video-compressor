@@ -12,6 +12,6 @@ Error code explanation:
 Code 0: No error.
 Code 1: Generic error.
 Code 2: No file argument was provided, check if you opened the MP4 with the executable.
-Code 3: Reserved for future use.
+Code 3: The GPU does not support AV1.
 Code 4: FFmpeg is not in the system path or is not installed.
-Code 5: Unknown gpu Vendor.
+Code 5: Unknown GPU vendor.
