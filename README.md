@@ -1,4 +1,4 @@
-# 10MB-video-compressor
+# 10MB-video-compressor V1.1
 A little project I made in around 12 days that automatically compresses mp4 files given to it using hardware-accelerated AV1 encoding on supported vendors.
 It runs in the background without opening any terminal windows.
 
