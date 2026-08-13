@@ -1,5 +1,5 @@
-# 10MB-video-compressor V1.1
-A little project I made in around 12 days that automatically compresses mp4 files given to it using hardware-accelerated AV1 encoding on supported vendors.
+# 10MB-video-compressor for Discord V1.1
+A little project I made in around 12 days that automatically compresses mp4 files given to it using hardware-accelerated AV1 encoding on supported vendors into the 10MB file limit for Discord users without Nitro.
 It runs in the background without opening any terminal windows.
 
 To use it you need to either drag and drop an MP4 file onto the executable in the Windows File Explorer or open the MP4 with the compiled executable.
