@@ -169,7 +169,7 @@ int main(int argc, char* argv[1])
     std::cout<<"length: " << ev.video_length_seconds << " \n";
 
 
-    ev.total_bitrate = 76000000 / ev.video_length_seconds;
+    ev.total_bitrate = 152000000 / ev.video_length_seconds;
     std::cout<<"finnished length calculation \n";
     ev.video_bitrate = ev.total_bitrate - ev.audio_bitrate;
     ev.video_bitrate_string = std::to_string(ev.video_bitrate);
